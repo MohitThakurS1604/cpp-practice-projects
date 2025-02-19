@@ -1,3 +1,9 @@
+/*
+
+   C+++ program to subtract two numbers
+   
+*/
+
 #include <iostream>
 
 using namespace std;
