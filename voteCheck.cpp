@@ -1,3 +1,9 @@
+/*
+
+   C+++ program to check that the person is elegible to vote or not
+   
+*/
+
 #include<iostream>
 using namespace std;
  int main() {
