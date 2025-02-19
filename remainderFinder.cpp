@@ -1,3 +1,9 @@
+/*
+
+   C+++ program to find the reminder 
+   
+*/
+
 #include<iostream>
 
  using namespace std;
