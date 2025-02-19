@@ -1,3 +1,8 @@
+/*
+
+   C+++ program to check the age catagory 
+   
+*/
 #include<iostream>
 using namespace std;
 

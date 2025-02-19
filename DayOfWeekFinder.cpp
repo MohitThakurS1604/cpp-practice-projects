@@ -1,3 +1,8 @@
+/*
+
+   C+++ program to find the day of the week
+   
+*/
 #include <iostream>
 using namespace std;
 

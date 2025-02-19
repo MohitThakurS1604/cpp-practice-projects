@@ -1,3 +1,9 @@
+/*
+
+   C+++ program to check if the entered integer is positive or negative
+   
+*/
+
 #include<iostream>
   using namespace std;
 
