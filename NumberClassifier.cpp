@@ -1,3 +1,9 @@
+/*
+
+   C+++ program to check if the entered integer is positive or negative and is it even or odd
+   
+*/
+
 #include<iostream>
  using namespace std;
   
