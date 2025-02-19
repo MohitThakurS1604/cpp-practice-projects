@@ -1,3 +1,9 @@
+/*
+
+   C+++ program to multiply two numbers
+   
+*/
+
 #include <iostream>
 using namespace std;
 int main()
