@@ -22,4 +22,6 @@
     }
     
     cout << num << " = " << num * (num + 1) / 2 << endl;
+
+    return 0;
   }
