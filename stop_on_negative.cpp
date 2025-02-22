@@ -1,3 +1,8 @@
+/*
+C++ program to check positive number and if negative number is added then it will stop the program
+
+*/
+
 #include <iostream>
 using namespace std;
 
