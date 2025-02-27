@@ -6,3 +6,4 @@
 - Porgram to check enter number is odd , even, positive,negative.
 - Program to enter number between 1-7 and it will print the week day.
 - Program to check the age group ( child,growing,adult).
+- C++ program to write fibonacci number using function
