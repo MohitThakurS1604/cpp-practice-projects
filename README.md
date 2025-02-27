@@ -7,3 +7,4 @@
 - Program to enter number between 1-7 and it will print the week day.
 - Program to check the age group ( child,growing,adult).
 - C++ program to write fibonacci number using function
+- C++ program to check that a later is uppercase or lowercase
