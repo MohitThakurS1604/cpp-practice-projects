@@ -8,4 +8,5 @@
 - Program to check the age group ( child,growing,adult).
 - C++ program to write fibonacci number using function
 - C++ program to check that a later is uppercase or lowercase
-- C++ program to find square root of any number 
+- C++ program to find square root of any number
+- C++ program to add n numbers
