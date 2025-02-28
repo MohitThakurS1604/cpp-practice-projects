@@ -11,4 +11,5 @@
 - C++ program to find square root of any number
 - C++ program to add n numbers
 - C++ program to multiply two numbers
-- C++ program to add odd numbers 
+- C++ program to add odd numbers
+- C++ program to divide two numbers
