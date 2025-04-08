@@ -1,3 +1,9 @@
+/*
+
+C++ program to demonstrate the use of friend function
+
+*/
+
 #include <iostream>
 using namespace std;
 
