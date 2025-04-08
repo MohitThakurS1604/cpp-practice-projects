@@ -1,3 +1,9 @@
+/*
+
+C++ program to find the sum of all odd number 
+
+*/
+
 #include <iostream>
 using namespace std;
 
