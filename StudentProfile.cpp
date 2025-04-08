@@ -1,3 +1,9 @@
+/*
+
+C++ program to create a class for student profile
+
+*/
+
 #include <iostream>
 using namespace std;
 
