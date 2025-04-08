@@ -1,3 +1,9 @@
+/*
+
+C++ program to demonstrate the use of copy constructor
+
+*/
+
 #include <iostream>
 using namespace std;
 
