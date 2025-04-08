@@ -1,3 +1,9 @@
+/*
+
+C++ program to demonstrate the use of default constructor
+
+*/
+
 #include <iostream>
 using namespace std;
 
