@@ -1,3 +1,9 @@
+/*
+
+C++ program to calculate the area and perimeter of a rectangle using a class
+
+*/
+
 #include <iostream>
 using namespace std;
 
