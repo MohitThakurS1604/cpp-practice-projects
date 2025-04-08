@@ -1,3 +1,9 @@
+/*
+
+C++ program to demonstrate the use of parameterized constructor
+
+*/
+
 #include <iostream>
 using namespace std;
 
